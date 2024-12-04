@@ -33,6 +33,4 @@ The code implements the following formulas:
   - [Charm-Crypto](https://github.com/JHUISI/charm): For cryptographic operations.
   - `hashlib`: For secure hashing.
   
-Install the required Python libraries:
-```bash
-pip install charm-crypto
+
