@@ -32,5 +32,9 @@ The code implements the following formulas:
 - Libraries:
   - [Charm-Crypto](https://github.com/JHUISI/charm): For cryptographic operations.
   - `hashlib`: For secure hashing.
-  
+
+  ### This code is based on the FedSafe feamework
+  M. I. Ibrahem, M. M. Fouda and Z. M. Fadlullah, "FedSafe-No KDC Needed: Decentralized Federated Learning with Enhanced Security and Efficiency," 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2024, pp. 969-975, doi: 10.1109/CCNC51664.2024.10454870. keywords: {Training;Threat modeling;Data privacy;Federated learning;Computational modeling;Training data;Data models;Federated learning;privacy preservation;functional encryption;decentralization},
+
+
 
