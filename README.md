@@ -5,7 +5,7 @@ This repository contains an implementation of a secure aggregation scheme using 
 ## **Features**
 - Element-wise operations with modular exponentiation.
 - Support for secure aggregation in a cryptographic setting.
-- Handles operations like encryption, decryption, and aggregation securely.
+- Handles operations like encryption, and aggregation securely.
 
 ## **Mathematical Overview**
 The code implements the following formulas:
