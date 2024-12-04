@@ -22,8 +22,6 @@ The code implements the following formulas:
    \]
    Where \( w_i \) represents the weight of each participant.
 
-3. **Decryption**:
-   Decrypt the aggregated result using the shared secret and hashed identifiers.
 
 ## **Setup**
 
