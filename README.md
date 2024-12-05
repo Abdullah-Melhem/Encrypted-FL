@@ -10,10 +10,7 @@ This repository contains an implementation of a secure aggregation scheme using 
 ## **Mathematical Overview**
 The code implements the following formulas:
 1. **Encryption**:
-   \[
-   C_t^i[p[m]] = g^{(s_i \cdot u^{\ell_t} + p_t^i[m])} \mod p
-   \]
-   Each participant encrypts their data using a secret key \( s_i \) and a hashed round identifier \( u^{\ell_t} \).
+   Each participant encrypts their data using a secret key \( s_i \) and a hashed round identifier.
 
 2. **Aggregation**:
    The aggregated result is computed as:
