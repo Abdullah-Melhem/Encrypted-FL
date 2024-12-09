@@ -6,6 +6,7 @@ This repository contains an implementation of a secure aggregation scheme using 
 - Element-wise operations with modular exponentiation.
 - Support for secure aggregation in a cryptographic setting.
 - Handles operations like encryption, and aggregation securely.
+- Attached FedSafe.py simulates the protocol for single parameters.
 
 ## **Mathematical Overview**
 The code implements the following formulas:
