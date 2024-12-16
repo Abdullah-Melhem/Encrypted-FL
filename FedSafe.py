@@ -20,6 +20,7 @@ def int_to_float_fnc(number, accuracy=6):
 
 # Initialize the group
 group = IntegerGroup()
+
 # select the length of p (number of bit)
 group.paramgen(6)
 
