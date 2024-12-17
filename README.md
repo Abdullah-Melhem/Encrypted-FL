@@ -21,7 +21,7 @@ The code implements the following formulas:
    Where \( w_i \) represents the weight of each participant.
 
 2. **Aggregation Extention**:
-   you need to apply any descrete algorithem to get the actual summation.
+  you need to apply any discrete algorithm to get the actual summation.
 ## **Setup**
 
 ### Prerequisites
