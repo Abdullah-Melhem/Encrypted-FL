@@ -7,6 +7,7 @@ This repository contains an implementation of a secure aggregation scheme using 
 - Support for secure aggregation in a cryptographic setting.
 - Handles operations like encryption, and aggregation securely.
 - Attached FedSafe.py simulates the protocol for single parameters.
+- Two ways to implement the methodology.
 
 ## **Mathematical Overview**
 The code implements the following formulas:
